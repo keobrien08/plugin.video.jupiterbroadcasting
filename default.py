@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Jupiter Broadcasting XBMC Addon
+Jupiter Broadcasting Kodi Addon
 http://github.com/robloach/plugin.video.jupiterbroadcasting
 """
 
@@ -223,7 +223,7 @@ def get_shows():
         'feed': feedburner + 'wtrmobile?format=xml',
         'feed-low': feedburner + 'wtrogg?format=xml',
         'feed-audio': feedburner + 'wtrmp3?format=xml',
-        'image': 'womens-talk-radio.png',
+        'image': 'womens-tech-radio.png',
         'plot': __language__(30223),
         'genre': 'Technology'
     }
